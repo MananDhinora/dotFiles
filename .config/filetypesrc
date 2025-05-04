@@ -1,0 +1,5 @@
+[EmbedSettings]
+embed-application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=false
+embed-image/png=false
+embed-text/csv=false
+embed-video/x-matroska=false
